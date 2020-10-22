@@ -1,0 +1,20 @@
+[
+	{
+		"id": 123,
+		"title": "Interim results for the six months ended 30 June 2017",
+		"subheading": "Delivering our transformation SDL plc (“SDL”, “the Group” or the “Company”), a leader in global content management and language translation software and services, announces its unaudited interim results for the six months ended 30 June 2017.",
+		"releaseDate" : "2017-08-01T12:00:00.000Z"		
+	},
+	{
+		"id": 456,
+		"title": "Acrolinx Enhances SDL Web with AI Functionality",
+		"subheading": "New York, NY – Unilever, Acumen and the Clinton Giustra Enterprise Partnership, an initiative of the Clinton Foundation, have launched a landmark Clinton Global Initiative (CGI) Commitment to Action called the Enhanced Livelihoods Investment Initiative (ELII) to improve the livelihoods of as many as 300,000 smallholder farmers and their communities in Africa, South Asia, Latin America, and the Caribbean.",
+		"releaseDate" : "2017-06-29T12:00:00.000Z"		
+	},
+	{
+		"id": 789,
+		"title": "SDL Brings Neural MT to its Secure Enterprise Translation Server",
+		"subheading": "WAKEFIELD, MA and MAIDENHEAD, UK – June 12, 2017 – SDL today announced that its Neural Machine Translation (NMT) technology is now part of SDL Enterprise Translation Server 7.4 (SDL ETS), a secure Machine Translation (MT) platform for regulated industries.",
+		"releaseDate" : "2017-06-12T12:00:00.000Z"		
+	}
+]

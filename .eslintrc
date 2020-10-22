@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    "react"
+  ],
+  "settings": {
+    "import/parser": "babel-eslint"
+    },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "classes": true,
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "react/jsx-no-undef": 2,
+    "react/jsx-uses-react": 2,
+    "react/jsx-uses-vars": 2,
+    "prefer-const": 2    
+  }
+}

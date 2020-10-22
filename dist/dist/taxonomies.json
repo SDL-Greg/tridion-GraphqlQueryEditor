@@ -1,0 +1,26 @@
+[
+	{
+		"id": 123,
+		"title": "Automotive"
+	},
+	{
+		"id": 456,
+		"title": "Travel"
+	},
+	{
+		"id": 789,
+		"title": "Banking"
+	},
+	{
+		"id": 110,
+		"title": "Insurance"
+	},
+	{
+		"id": 112,
+		"title": "Hi-Tech"
+	},
+	{
+		"id": 458,
+		"title": "Investor Relations"
+	}
+]
